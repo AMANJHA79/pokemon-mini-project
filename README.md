@@ -1,13 +1,14 @@
-# React + Vite
+# 🚀 Poke-Dex - Pokémon Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Poke-Dex, a simple and elegant Pokémon explorer built with React.
 
-Currently, two official plugins are available:
+A modern React application for exploring Pokémon data, featuring responsive design and real-time search capabilities.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 📲 Responsive grid layout for Pokémon cards
+- 🔍 Instant search functionality
+- 📊 Detailed Pokémon statistics (HP, Attack, Defense, etc.)
+- 🎨 Dynamic sprites display
+- 🌀 Loading states and error handling
+- 📱 Mobile-first design
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# pokemon-mini-project
